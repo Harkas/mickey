@@ -14,9 +14,9 @@ name:				         harkas blog
 title:               site title
 tagline:             'tagline'
 description:         'description'
-url:                 https://harkas.github.io
+url: "https://harkas.github.io"
 rss:                 rss feed url
-baseurl:             '/mickey'
+baseurl:             "/mickey"
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
