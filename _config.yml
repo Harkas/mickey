@@ -1,4 +1,4 @@
-
+﻿
 # Syntax highlighting
 markdown:            redcarpet
 highlighter:         pygments
@@ -10,13 +10,13 @@ relative_permalinks: true
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         site name
+name:				         harkas blog
 title:               site title
 tagline:             'tagline'
 description:         'description'
-url:                 site url
+url:                 https://harkas.github.io
 rss:                 rss feed url
-baseurl:             '/'
+baseurl:             '/mickey'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
@@ -26,7 +26,7 @@ disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
   name:           	 your name
-  url:            	 your site url
+  url:            	 https://harkas.github.io
   facebook:          username
   twitter:           username
   google_plus:       username
